@@ -1,0 +1,25 @@
+Here's a `requirements.txt` file based on the libraries you've imported:
+
+```
+numpy
+pandas
+matplotlib
+seaborn
+```
+
+If you're using Jupyter Notebook (as implied by `%matplotlib inline`), you might also want to include:
+
+```
+jupyter
+```
+
+So the full `requirements.txt` would be:
+
+```
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+```
+
